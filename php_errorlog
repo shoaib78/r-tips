@@ -1,0 +1,64 @@
+[06-Jan-2017 03:06:15 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/tipsandg/public_html/tipsandgo/application/views/trip_listings.php on line 536
+[06-Jan-2017 04:33:09 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/tipsandg/public_html/tipsandgo/application/controllers/Home.php on line 752
+[06-Jan-2017 04:35:08 CST6CDT] PHP Fatal error:  Call to a member function remove_wishtips() on null in /home/tipsandg/public_html/tipsandgo/application/controllers/Home.php on line 759
+[06-Jan-2017 04:36:12 CST6CDT] PHP Fatal error:  Call to a member function remove_wishtips() on null in /home/tipsandg/public_html/tipsandgo/application/controllers/Home.php on line 759
+[06-Jan-2017 04:37:08 CST6CDT] PHP Fatal error:  Call to a member function remove_wishtips() on null in /home/tipsandg/public_html/tipsandgo/application/controllers/Home.php on line 759
+[06-Jan-2017 04:37:44 CST6CDT] PHP Fatal error:  Call to a member function remove_wishtips() on null in /home/tipsandg/public_html/tipsandgo/application/controllers/Home.php on line 759
+[06-Jan-2017 05:21:07 CST6CDT] PHP Parse error:  syntax error, unexpected '?>' in /home/tipsandg/public_html/tipsandgo/application/views/trip_details.php on line 192
+[06-Jan-2017 05:21:10 CST6CDT] PHP Parse error:  syntax error, unexpected '?>' in /home/tipsandg/public_html/tipsandgo/application/views/trip_details.php on line 192
+[06-Jan-2017 05:37:24 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/tipsandg/public_html/tipsandgo/application/views/trip_details.php on line 47
+[06-Jan-2017 05:37:26 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/tipsandg/public_html/tipsandgo/application/views/trip_details.php on line 47
+[06-Jan-2017 06:44:27 CST6CDT] PHP Fatal error:  Call to undefined method Activity_model::checkBookmarkExist() in /home/tipsandg/public_html/tipsandgo/application/controllers/Home.php on line 46
+[06-Jan-2017 07:26:34 CST6CDT] PHP Fatal error:  Cannot use object of type stdClass as array in /home/tipsandg/public_html/tipsandgo/application/controllers/Home.php on line 689
+[06-Jan-2017 07:26:37 CST6CDT] PHP Fatal error:  Cannot use object of type stdClass as array in /home/tipsandg/public_html/tipsandgo/application/controllers/Home.php on line 689
+[06-Jan-2017 08:06:58 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/tipsandg/public_html/tipsandgo/application/controllers/Home.php on line 37
+[06-Jan-2017 08:07:01 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/tipsandg/public_html/tipsandgo/application/controllers/Home.php on line 37
+[06-Jan-2017 23:53:56 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/tipsandg/public_html/tipsandgo/application/controllers/Trip.php on line 134
+[06-Jan-2017 23:54:23 CST6CDT] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/tipsandg/public_html/tipsandgo/application/controllers/Trip.php on line 139
+[06-Jan-2017 23:55:32 CST6CDT] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/tipsandg/public_html/tipsandgo/application/controllers/Trip.php on line 139
+[06-Jan-2017 23:56:12 CST6CDT] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/tipsandg/public_html/tipsandgo/application/controllers/Trip.php on line 140
+[07-Jan-2017 01:36:32 CST6CDT] PHP Fatal error:  Cannot redeclare Trip_model::get_all_trip_data() in /home/tipsandg/public_html/tipsandgo/application/models/Trip_model.php on line 308
+[09-Jan-2017 05:24:21 CST6CDT] PHP Parse error:  syntax error, unexpected '<=' (T_IS_SMALLER_OR_EQUAL), expecting variable (T_VARIABLE) or '$' in /home/tipsandg/public_html/tipsandgo/application/views/admin/plans.php on line 33
+[09-Jan-2017 05:24:24 CST6CDT] PHP Parse error:  syntax error, unexpected '<=' (T_IS_SMALLER_OR_EQUAL), expecting variable (T_VARIABLE) or '$' in /home/tipsandg/public_html/tipsandgo/application/views/admin/plans.php on line 33
+[09-Jan-2017 05:24:49 CST6CDT] PHP Parse error:  syntax error, unexpected '<=' (T_IS_SMALLER_OR_EQUAL), expecting variable (T_VARIABLE) or '$' in /home/tipsandg/public_html/tipsandgo/application/views/admin/plans.php on line 33
+[09-Jan-2017 06:36:59 CST6CDT] PHP Fatal error:  Cannot use object of type stdClass as array in /home/tipsandg/public_html/tipsandgo/application/views/admin/plans.php on line 53
+[21-Jan-2017 04:38:21 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/tipsandg/public_html/tipsandgo/application/views/wall.php on line 365
+[21-Jan-2017 04:38:23 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/tipsandg/public_html/tipsandgo/application/views/wall.php on line 365
+[21-Jan-2017 04:38:25 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/tipsandg/public_html/tipsandgo/application/views/wall.php on line 365
+[21-Jan-2017 06:00:24 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/tipsandg/public_html/tipsandgo/application/views/wall.php on line 370
+[21-Jan-2017 06:00:28 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/tipsandg/public_html/tipsandgo/application/views/wall.php on line 370
+[21-Jan-2017 07:29:48 CST6CDT] PHP Fatal error:  Cannot use object of type stdClass as array in /home/tipsandg/public_html/tipsandgo/application/views/wall.php on line 271
+[21-Jan-2017 07:29:54 CST6CDT] PHP Fatal error:  Cannot use object of type stdClass as array in /home/tipsandg/public_html/tipsandgo/application/views/wall.php on line 271
+[23-Jan-2017 01:33:41 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/tipsandg/public_html/tipsandgo/application/controllers/Activity.php on line 411
+[23-Jan-2017 01:46:53 CST6CDT] PHP Parse error:  syntax error, unexpected '$hide' (T_VARIABLE) in /home/tipsandg/public_html/tipsandgo/application/controllers/Activity.php on line 414
+[23-Jan-2017 02:05:11 CST6CDT] PHP Fatal error:  Call to undefined function FIND_IN_SET() in /home/tipsandg/public_html/tipsandgo/application/models/User_model.php on line 213
+[23-Jan-2017 02:08:25 CST6CDT] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/tipsandg/public_html/tipsandgo/application/models/User_model.php on line 216
+[23-Jan-2017 02:08:27 CST6CDT] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/tipsandg/public_html/tipsandgo/application/models/User_model.php on line 216
+[24-Jan-2017 04:24:43 CST6CDT] PHP Fatal error:  Using $this when not in object context in /home/tipsandg/public_html/tipsandgo/application/views/currency_convert.php on line 12
+[24-Jan-2017 05:25:07 CST6CDT] PHP Fatal error:  Cannot use object of type stdClass as array in /home/tipsandg/public_html/tipsandgo/application/controllers/Trip.php on line 226
+[24-Jan-2017 05:28:50 CST6CDT] PHP Fatal error:  Cannot use object of type stdClass as array in /home/tipsandg/public_html/tipsandgo/application/views/trip_details.php on line 119
+[24-Jan-2017 05:28:54 CST6CDT] PHP Fatal error:  Cannot use object of type stdClass as array in /home/tipsandg/public_html/tipsandgo/application/views/trip_details.php on line 119
+[24-Jan-2017 07:09:16 CST6CDT] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/tipsandg/public_html/tipsandgo/application/controllers/Home.php on line 336
+[24-Jan-2017 07:09:19 CST6CDT] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/tipsandg/public_html/tipsandgo/application/controllers/Home.php on line 336
+[24-Jan-2017 07:10:18 CST6CDT] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/tipsandg/public_html/tipsandgo/application/controllers/Home.php on line 336
+[25-Jan-2017 06:14:52 CST6CDT] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) in /home/tipsandg/public_html/tipsandgo/application/models/Trip_model.php on line 375
+[25-Jan-2017 06:15:36 CST6CDT] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) in /home/tipsandg/public_html/tipsandgo/application/models/Trip_model.php on line 375
+[25-Jan-2017 07:31:36 CST6CDT] PHP Fatal error:  Call to undefined method Upload_model::getById() in /home/tipsandg/public_html/tipsandgo/application/controllers/Ajax.php on line 87
+[25-Jan-2017 08:28:25 CST6CDT] PHP Fatal error:  Call to undefined method Upload_model::getById() in /home/tipsandg/public_html/tipsandgo/application/controllers/Ajax.php on line 87
+[25-Jan-2017 08:29:50 CST6CDT] PHP Fatal error:  Call to undefined method Upload_model::getById() in /home/tipsandg/public_html/tipsandgo/application/controllers/Ajax.php on line 87
+[25-Jan-2017 08:31:03 CST6CDT] PHP Fatal error:  Call to undefined method Upload_model::getById() in /home/tipsandg/public_html/tipsandgo/application/controllers/Ajax.php on line 87
+[25-Jan-2017 08:31:17 CST6CDT] PHP Fatal error:  Call to undefined method Upload_model::getById() in /home/tipsandg/public_html/tipsandgo/application/controllers/Ajax.php on line 87
+[27-Jan-2017 09:12:30 CST6CDT] PHP Fatal error:  Call to undefined method Upload_model::getById() in /home/tipsandg/public_html/tipsandgo/application/controllers/Ajax.php on line 87
+[27-Jan-2017 09:13:05 CST6CDT] PHP Fatal error:  Call to undefined method Upload_model::getById() in /home/tipsandg/public_html/tipsandgo/application/controllers/Ajax.php on line 87
+[29-Jan-2017 23:41:09 CST6CDT] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/tipsandg/public_html/tipsandgo/application/views/trip_listings.php on line 563
+[29-Jan-2017 23:57:36 CST6CDT] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/tipsandg/public_html/tipsandgo/application/views/trip_listings.php on line 563
+[29-Jan-2017 23:58:01 CST6CDT] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/tipsandg/public_html/tipsandgo/application/views/trip_listings.php on line 563
+[29-Jan-2017 23:58:04 CST6CDT] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/tipsandg/public_html/tipsandgo/application/views/trip_listings.php on line 563
+[30-Jan-2017 00:01:37 CST6CDT] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/tipsandg/public_html/tipsandgo/application/views/trip_listings.php on line 563
+[30-Jan-2017 00:10:28 CST6CDT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/tipsandg/public_html/tipsandgo/application/controllers/Trip.php on line 215
+[30-Jan-2017 00:15:24 CST6CDT] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/tipsandg/public_html/tipsandgo/application/views/trip_listings.php on line 563
+[30-Jan-2017 00:15:29 CST6CDT] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/tipsandg/public_html/tipsandgo/application/views/trip_listings.php on line 563
+[30-Jan-2017 00:15:51 CST6CDT] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/tipsandg/public_html/tipsandgo/application/views/trip_listings.php on line 563
+[30-Jan-2017 00:16:42 CST6CDT] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/tipsandg/public_html/tipsandgo/application/views/trip_listings.php on line 563
+[30-Jan-2017 00:16:45 CST6CDT] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/tipsandg/public_html/tipsandgo/application/views/trip_listings.php on line 563
+[30-Jan-2017 00:17:24 CST6CDT] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/tipsandg/public_html/tipsandgo/application/views/trip_listings.php on line 563

